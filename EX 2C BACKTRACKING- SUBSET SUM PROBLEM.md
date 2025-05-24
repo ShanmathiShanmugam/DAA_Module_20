@@ -18,8 +18,8 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 ## Program:
 ```python
 Program to implement Subset sum problem.
-Developed by: VAISHALI BALAMURUGAN
-Register Number:  212222230164
+Developed by: S.SHANMATHI
+Register Number:  212222100049
 def SubsetSum(a,i,sum,target,n):
     if i==n:
         return sum==target
